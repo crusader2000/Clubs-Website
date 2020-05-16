@@ -69,6 +69,26 @@ summaryLength = "10"
     URL = "club_name/contact"
     weight = 5
 
+  [[menu.astronomy_club]]
+    name = "About"
+    URL = "astronomy_club/about"
+    weight = 2
+    
+  [[menu.astronomy_club]]
+    name = "Archives"
+    URL = "astronomy_club/archive"
+    weight = 3
+    
+  [[menu.astronomy_club]]
+    name = "Events"
+    URL = "astronomy_club/events"
+    weight = 4
+    
+  [[menu.astronomy_club]]
+    name = "Contact"
+    URL = "astronomy_club/contact"
+    weight = 5
+
 [params]
 logo = "images/logo.png"
 club_nameURL = "https://www.clubs.iiit.ac.in/clubs/club_name"
